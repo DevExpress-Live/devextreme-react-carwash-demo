@@ -1,6 +1,6 @@
 # DevExtreme React Carwash Demo
 
-### Demo featuring the DevExtreme Sscheduler and DevExtreme forms. 
+### Demo featuring the DevExtreme Scheduler and DevExtreme Forms. 
 
 [`Purchase a DevExtreme License`](https://www.devexpress.com/buy/js/)
 
