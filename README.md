@@ -21,4 +21,4 @@ npm run dev
 
 Note: Authentication using [DummyJSON](https://dummyjson.com). 
 
-    Username: *kminchelle* | Password: *0lelplR*
+Username: `kminchelle` | Password: `0lelplR`
