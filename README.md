@@ -1,8 +1,13 @@
-# React + Vite
+# DevExtreme React Carwash Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Demo featuring the DevExtreme Sscheduler and DevExtreme forms. 
 
-Currently, two official plugins are available:
+[`Purchase a DevExtreme License`](https://www.devexpress.com/buy/js/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Forms Docs](https://js.devexpress.com/React/Documentation/Guide/UI_Components/Form/Getting_Started_with_Form/)
+
+[Forms Demos](https://js.devexpress.com/React/Demos/WidgetsGallery/Demo/Common/FormsAndMultiPurposeOverview/MaterialBlueLight/)
+
+[Scheduler Docs](https://js.devexpress.com/React/Documentation/Guide/UI_Components/Scheduler/Getting_Started_with_Scheduler/)
+
+[Scheduler Demos](https://js.devexpress.com/React/Demos/WidgetsGallery/Demo/Scheduler/Overview/MaterialBlueLight/)
