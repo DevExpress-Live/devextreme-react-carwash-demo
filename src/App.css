@@ -1,0 +1,55 @@
+.title {
+  padding: 10px;
+}
+
+.login-form {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 4rem;
+}
+
+.profile-form {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.first-group,
+.second-group {
+  padding: 20px;
+}
+
+.second-group {
+  background-color: rgba(191, 191, 191, 0.15);
+}
+
+.form-avatar {
+  height: 250px;
+  width: 250px;
+  margin-right: 11px;
+  padding-right: 5px;
+  border: 1px solid #d2d3d5;
+  border-radius: 50%;
+  background-image: url('profile.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.new-car-form {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.home-tab-control {
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.scheduler-container {
+  padding: 20px;
+}
+
+.grid-container {
+  padding: 20px;
+}
